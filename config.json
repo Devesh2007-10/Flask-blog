@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/The Law",
+    "prod_uri": "mysql://root:@localhost/The Law",
+    "fb_url": "https://facebook.com/TheLaw",
+    "tw_url":"https://twitter.com/TheLaw",
+    "gh_url":"https://github.com/TheLaw",
+    "blog_name": "THE.LAW",
+    "tag_line": "A Blog Informing About Laws",
+    "gmail-user": "deveshtharwani578@gmail.com",
+    "gmail-password": "oxtd fkoh lczj gdgi",
+    "about_text": "Hello! My name is Devesh Tharwani and this blog is created by me. I hope you like the content here.",
+    "no_of_posts": 1,
+    "login_image": "login.svg",
+    "admin_user": "devesh",
+    "admin_password": "devesh2007",
+    "upload_location": "C:\\Users\\Lenovo\\PycharmProjects\\PythonProject\\static"
+  }
+}
